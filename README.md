@@ -18,6 +18,8 @@ For Windows:
 
 To play, you must *click left* for crosses and *click right* for knots/circles
 
+Hit reset once someone wins
+
 ## Licence
 
 The rules for copy and distributing this project licence are
